@@ -11,7 +11,7 @@
   <img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Mongo" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Postgres" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="FastAPI" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg">
   <img align="right" alt="Rafa-yoda" height="120" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
@@ -22,7 +22,6 @@
 
 Desenvolvedor Full Stack e **entusiasta de Inteligência Artificial**, focado em criar soluções que unem robustez técnica e inovação. Tenho experiência sólida em arquitetura de software e estou sempre explorando como integrar **IA** para potencializar aplicações web e ferramentas interativas.
 
-* 🔭 **Atualmente trabalhando em:** Desenvolvimento do **DengueTracker** (Sistema Full Stack de monitoramento).
 * 🌱 **Estudando:** Arquitetura de Software, Design Patterns e **Modelos de IA/LLMs**.
 * 💡 **Interesses:** Desenvolvimento Web Moderno, **Inteligência Artificial**, Automação e GUI Desktop.
 
@@ -44,9 +43,9 @@ Desenvolvedor Full Stack e **entusiasta de Inteligência Artificial**, focado em
 
 | Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
-| **🦟 DengueTracker** | `React` `Node.js` `MongoDB` | Sistema completo para monitoramento e controle de focos de dengue. |
-| **🎮 Memory Game** | `Python` `PySide6` `Qt` | Jogo da memória desktop com interface responsiva e pontuação. [Ver Repositório](https://github.com/oliverws7/memory-game-pyside6) |
-| **🔌 Adapter Pattern** | `Python` `POO` | Implementação didática de Design Patterns. [Ver Repositório](https://github.com/oliverws7/adapter-pattern) |
+| **🦟 [DengueTracker](https://dengue-tracker.vercel.app/)** | `React` `Node.js` `PostgreSQL` | Sistema completo para monitoramento e controle de focos de dengue. |
+| **🎮 Memory Game** | `Python` `PySide6` `Qt` | Jogo da memória desktop com interface responsiva e pontuação.|
+| **🔌 Adapter Pattern** | `Python` `POO` | Implementação didática de Design Patterns.  |
 | **⚡ Fast API Service** | `Python` `FastAPI` | API de alta performance para serviços de backend. |
 
 ---
@@ -74,7 +73,7 @@ Desenvolvedor Full Stack e **entusiasta de Inteligência Artificial**, focado em
 
 #### **Ferramentas & Qualidade**
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Pytest](https://img.shields.io/badge/-Pytest-black?style=flat-square&logo=pytest&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-black?style=flat-square&logo=codereview)
 ![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)
