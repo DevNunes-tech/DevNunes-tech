@@ -23,7 +23,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           # Seu nome de usuário do GitHub
-          github_user_name: oliverws7
+          github_user_name: DevNunes-tech
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
