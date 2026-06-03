@@ -39,14 +39,54 @@ Desenvolvedor Full Stack e **entusiasta de Inteligência Artificial**, focado em
 
 ---
 
-### 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-| Projeto | Tecnologias | Descrição |
-| :--- | :--- | :--- |
-| **🦟 [DengueTracker](https://dengue-tracker.vercel.app/)** | `React` `Node.js` `PostgreSQL` | Sistema completo para monitoramento e controle de focos de dengue. |
-| **🎮 Memory Game** | `Python` `PySide6` `Qt` | Jogo da memória desktop com interface responsiva e pontuação.|
-| **🔌 Adapter Pattern** | `Python` `POO` | Implementação didática de Design Patterns.  |
-| **⚡ Fast API Service** | `Python` `FastAPI` | API de alta performance para serviços de backend. |
+### 🌎 Piauí for the World
+> Plataforma interativa de dados geoespaciais e turismo inteligente para promover o estado do Piauí através de tecnologia, acessibilidade e dados abertos.
+
+**Stack:** `React` `TypeScript` `Vite` `Leaflet` `GeoJSON`
+
+🔗 Demo: https://piaui-for-the-word.vercel.app  
+📂 Repositório: https://github.com/DevNunes-tech/piaui-for-the-word
+
+---
+
+### ⚔️ WarTracker
+> Painel estratégico para gerenciamento de Guerras de Clã no Clash Royale, com monitoramento em tempo real, análise de desempenho e histórico de batalhas.
+
+**Stack:** `React` `Node.js` `PostgreSQL`
+
+📂 Repositório: https://github.com/DevNunes-tech/clan-war
+
+---
+
+### 🦟 DengueTracker
+> Sistema completo para monitoramento, análise e controle de focos de dengue utilizando dashboards, geolocalização e visualização de dados.
+
+**Stack:** `React` `Node.js` `PostgreSQL`
+
+🔗 Demo: https://dengue-tracker.vercel.app
+
+---
+
+### 🎮 Memory Game
+> Jogo da memória desenvolvido para desktop com interface responsiva, sistema de pontuação e arquitetura orientada a objetos.
+
+**Stack:** `Python` `PySide6` `Qt`
+
+---
+
+### ⚡ FastAPI Service
+> API REST moderna focada em desempenho, escalabilidade e boas práticas de desenvolvimento backend.
+
+**Stack:** `Python` `FastAPI`
+
+---
+
+### 🔌 Adapter Pattern
+> Implementação prática do padrão de projeto Adapter para demonstrar conceitos de Programação Orientada a Objetos e Design Patterns.
+
+**Stack:** `Python` `POO`
 
 ---
 
@@ -80,6 +120,7 @@ Desenvolvedor Full Stack e **entusiasta de Inteligência Artificial**, focado em
 
 ---
 
+
 ### 🤝 Vamos Conectar?
 
 <div align="center">
@@ -89,3 +130,5 @@ Desenvolvedor Full Stack e **entusiasta de Inteligência Artificial**, focado em
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_oliverws)
 
 </div>
+
+---
