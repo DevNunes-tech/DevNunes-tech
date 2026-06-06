@@ -1,7 +1,7 @@
-# ⚡ Olá, eu sou Mateus Nunes!
+# ⚡ Olá, eu me chamo Mateus
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=27AE60&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Apaixonado+por+IA;Python+%26+Node.js+Expert;Arquitetura+de+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end;Praticando+TypeScript+%26+Python;Entusiasta+de+Inteligência+Artificial;Construindo+Soluções+em+Software" alt="Typing SVG" />
 </div>
 
 <div style="display: inline_block">
@@ -19,11 +19,10 @@
 ---
 
 ### 👨‍💻 Sobre Mim
+Desenvolvedor apaixonado por resolver problemas através de algoritmos e lógica de programação. Atualmente, dedico minha jornada acadêmica ao Bacharelado em Inteligência Artificial, explorando como a união entre back-end e modelos inteligentes pode criar aplicações mais potentes.
 
-Desenvolvedor Full Stack e **entusiasta de Inteligência Artificial**, focado em criar soluções que unem robustez técnica e inovação. Tenho experiência sólida em arquitetura de software e estou sempre explorando como integrar **IA** para potencializar aplicações web e ferramentas interativas.
-
-* 🌱 **Estudando:** Arquitetura de Software, Design Patterns e **Modelos de IA/LLMs**.
-* 💡 **Interesses:** Desenvolvimento Web Moderno, **Inteligência Artificial**, Automação e GUI Desktop.
+* 🌱 **Estudando:** Inteligência Artificial, Arquitetura de Software e Otimização de Algoritmos.
+* 💡 **Interesses:** Soluções de back-end, automação e integração de IA em aplicações modernas.
 
 ---
 
@@ -92,33 +91,26 @@ Desenvolvedor Full Stack e **entusiasta de Inteligência Artificial**, focado em
 
 ### 🛠️ Arsenal Tecnológico
 
-#### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+#### **Desenvolvimento Web & UI**
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite&logoColor=yellow)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss&logoColor=sky)
-![PySide6](https://img.shields.io/badge/-PySide6-black?style=flat-square&logo=qt&logoColor=green)
 
-#### **Backend & IA**
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+#### **Backend, Dados & IA**
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 <br>
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=sparkles&logoColor=white)
 
-#### **Ferramentas & Qualidade**
+#### **Ferramentas & Práticas**
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Pytest](https://img.shields.io/badge/-Pytest-black?style=flat-square&logo=pytest&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-black?style=flat-square&logo=codereview)
-![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)
-
----
 
 
 ### 🤝 Vamos Conectar?
