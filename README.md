@@ -1,38 +1,42 @@
-# ⚡ Olá, eu me chamo Mateus
+# ⚡ Mateus Nunes
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end;Praticando+TypeScript+%26+Python;Entusiasta+de+Inteligência+Artificial;Construindo+Soluções+em+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+%26+Dados;Monitor+Acadêmico+no+PIT;Pesquisa+em+Inteligência+Artificial;Python+%7C+TypeScript+%7C+PostgreSQL" alt="Typing SVG" />
 </div>
 
-<div style="display: inline_block">
-  <br>
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Postgres" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="FastAPI" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg">
-  <img align="right" alt="Rafa-yoda" height="120" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-</div>
+<div align="center">
+  <img alt="Python" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  &nbsp;
+  <img alt="FastAPI" height="36" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg">
+  &nbsp;
+  <img alt="TypeScript" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  &nbsp;
+  <img alt="React" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  &nbsp;
+  
 
 ---
-
 ### 👨‍💻 Sobre Mim
-Desenvolvedor apaixonado por resolver problemas através de algoritmos e lógica de programação. Atualmente, dedico minha jornada acadêmica ao Bacharelado em Inteligência Artificial, explorando como a união entre back-end e modelos inteligentes pode criar aplicações mais potentes.
 
-* 🌱 **Estudando:** Inteligência Artificial, Arquitetura de Software e Otimização de Algoritmos.
-* 💡 **Interesses:** Soluções de back-end, automação e integração de IA em aplicações modernas.
+Desenvolvedor de software, pesquisador e **Google Student Ambassador (2026)** no **Piauí Instituto de Tecnologia (PIT)**. Minha atuação conecta o desenvolvimento de sistemas escaláveis e Inteligência Artificial com liderança de comunidades técnicas e monitoria acadêmica.
+
+* 🌐 **Liderança & Comunidade:** Google Student Ambassador 2026, impulsionando ecossistemas de tecnologia, inovação aberta e ferramentas Google.
+* 🎓 **Formação & Pesquisa:** Graduando no Piauí Instituto de Tecnologia (PIT), com foco em Inteligência Artificial, dados abertos e impacto regional.
+* 🏛️ **Monitoria Acadêmica:**
+  * **Empreendedorismo** para a turma de *Tecnólogo em Ciência de Dados* (PIT).
+  * **Matemática Pré-ENEM** para turmas do 3º ano do Ensino Médio.
+  * **Desenvolvimento de Sistemas** (histórico com turmas de 2º ano).
+* 🎯 **Foco Técnico:** Microsserviços e APIs assíncronas com FastAPI, TypeScript, integração de modelos de IA, Cloud (GCP) e dados geoespaciais.
 
 ---
 
-### 🐍 Minhas Contribuições
+### 🐍 Atividade no GitHub
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oliverws7/oliverws7/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oliverws7/oliverws7/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oliverws7/oliverws7/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevNunes-tech/DevNunes-tech/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevNunes-tech/DevNunes-tech/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevNunes-tech/DevNunes-tech/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -41,86 +45,54 @@ Desenvolvedor apaixonado por resolver problemas através de algoritmos e lógica
 ## 🚀 Projetos em Destaque
 
 ### 🌎 Piauí for the World
-> Plataforma interativa de dados geoespaciais e turismo inteligente para promover o estado do Piauí através de tecnologia, acessibilidade e dados abertos.
+> Plataforma de dados abertos e visualização geoespacial focada no ecossistema e potencial turístico do Piauí através de tecnologia e acessibilidade.
 
-**Stack:** `React` `TypeScript` `Vite` `Leaflet` `GeoJSON`
-
-🔗 Demo: https://piaui-for-the-word.vercel.app  
-📂 Repositório: https://github.com/DevNunes-tech/piaui-for-the-word
-
----
-
-### ⚔️ WarTracker
-> Painel estratégico para gerenciamento de Guerras de Clã no Clash Royale, com monitoramento em tempo real, análise de desempenho e histórico de batalhas.
-
-**Stack:** `React` `Node.js` `PostgreSQL`
-
-📂 Repositório: https://github.com/DevNunes-tech/clan-war
+* **Stack:** `TypeScript` `React` `Vite` `Leaflet` `GeoJSON` `TailwindCSS`
+* **Destaques:** Renderização vetorial de malhas territoriais, alta performance e manipulação de conjuntos de dados abertos.
+* 🔗 [Deploy](https://piaui-for-the-word.vercel.app) • 📂 [Repositório](https://github.com/DevNunes-tech/piaui-for-the-word)
 
 ---
 
 ### 🦟 DengueTracker
-> Sistema completo para monitoramento, análise e controle de focos de dengue utilizando dashboards, geolocalização e visualização de dados.
+> Dashboard analítico full-stack voltado à vigilância epidemiológica e saúde pública, integrando geolocalização e indicadores temporais.
 
-**Stack:** `React` `Node.js` `PostgreSQL`
-
-🔗 Demo: https://dengue-tracker.vercel.app
-
----
-
-### 🎮 Memory Game
-> Jogo da memória desenvolvido para desktop com interface responsiva, sistema de pontuação e arquitetura orientada a objetos.
-
-**Stack:** `Python` `PySide6` `Qt`
+* **Stack:** `Node.js` `TypeScript` `PostgreSQL` `React` `Leaflet`
+* **Destaques:** Estruturação de dados relacionais para mapas de calor e monitoramento de índices em tempo real.
+* 🔗 [Deploy](https://dengue-tracker.vercel.app) • 📂 [Repositório](https://github.com/DevNunes-tech)
 
 ---
 
-### ⚡ FastAPI Service
-> API REST moderna focada em desempenho, escalabilidade e boas práticas de desenvolvimento backend.
+### ⚔️ WarTracker
+> Plataforma analítica de telemetria para gerenciamento estratégico e análise estatística de clãs competitivos.
 
-**Stack:** `Python` `FastAPI`
-
----
-
-### 🔌 Adapter Pattern
-> Implementação prática do padrão de projeto Adapter para demonstrar conceitos de Programação Orientada a Objetos e Design Patterns.
-
-**Stack:** `Python` `POO`
+* **Stack:** `Node.js` `FastAPI` `PostgreSQL` `React`
+* **Destaques:** Integração com APIs externas com rate-limiting e processamento automatizado de métricas de desempenho.
+* 📂 [Repositório](https://github.com/DevNunes-tech/clan-war)
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+## 🛠️ Arsenal Técnico
 
-#### **Desenvolvimento Web & UI**
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite&logoColor=yellow)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss&logoColor=sky)
+| Área | Tecnologias, Ferramentas & Práticas |
+| :--- | :--- |
+| **Linguagens** | Python, TypeScript, JavaScript, SQL |
+| **Back-end & APIs** | FastAPI, Node.js, Express, REST APIs, Pydantic, SQLAlchemy |
+| **Bancos de Dados** | PostgreSQL, Modelagem Relacional, Query Optimization |
+| **Cloud & IA** | Google Cloud Platform (GCP), Vertex AI / Gemini API, Pipelines de IA, Data Analysis |
+| **Front-end & Dados** | React, Vite, Leaflet, GeoJSON, TailwindCSS |
+| **DevOps & Qualidade** | Git, Docker, Pytest, Design Patterns (GoF), Clean Architecture, CI/CD |
+| **Comunidade & Ensino** | Google Ambassador (2026), Monitoria de Dados/Matemática, Liderança Técnica |
 
-#### **Backend, Dados & IA**
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-<br>
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+---
 
-#### **Ferramentas & Práticas**
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Pytest](https://img.shields.io/badge/-Pytest-black?style=flat-square&logo=pytest&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-black?style=flat-square&logo=codereview)
-
-
-### 🤝 Vamos Conectar?
+### 🤝 Conecte-se Comigo
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mateusoliveiranunes2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oliverws7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_oliverws)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-2771-8491)
+[![Lattes](https://img.shields.io/badge/Lattes-003366?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/7074291163602260)
+
 
 </div>
-
----
