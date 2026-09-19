@@ -1,32 +1,36 @@
 # ⚡ Mateus Nunes
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+%26+Dados;Monitor+Acadêmico+no+PIT;Pesquisa+em+Inteligência+Artificial;Python+%7C+TypeScript+%7C+PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+%26+Dados;Monitor+Acadêmico+no+PIT;Graduando+em+Inteligência+Artificial;Python+%7C+TypeScript+%7C+PostgreSQL" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img alt="Python" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   &nbsp;
-  <img alt="FastAPI" height="36" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg">
-  &nbsp;
   <img alt="TypeScript" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  &nbsp;
+  <img alt="JavaScript" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &nbsp;
   <img alt="React" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   &nbsp;
-  
+  <img alt="FastAPI" height="36" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg">
+  &nbsp;
+  <img alt="PostgreSQL" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>
 
 ---
+
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor de software, pesquisador e **Google Student Ambassador (2026)** no **Piauí Instituto de Tecnologia (PIT)**. Minha atuação conecta o desenvolvimento de sistemas escaláveis e Inteligência Artificial com liderança de comunidades técnicas e monitoria acadêmica.
+Desenvolvedor de software e graduando em **Inteligência Artificial** no **Piauí Instituto de Tecnologia (PIT)**, atuando como **Google Student Ambassador (2026)**. Desenvolvo aplicações web, ferramentas de análise de dados e soluções voltadas a problemas reais e acadêmicos.
 
-* 🌐 **Liderança & Comunidade:** Google Student Ambassador 2026, impulsionando ecossistemas de tecnologia, inovação aberta e ferramentas Google.
-* 🎓 **Formação & Pesquisa:** Graduando no Piauí Instituto de Tecnologia (PIT), com foco em Inteligência Artificial, dados abertos e impacto regional.
+* 🌐 **Liderança & Comunidade:** Google Student Ambassador (2026), explorando tecnologias Google e incentivando ecossistemas acadêmicos.
+* 🎓 **Formação:** Bacharelado em Inteligência Artificial no Piauí Instituto de Tecnologia (PIT).
 * 🏛️ **Monitoria Acadêmica:**
   * **Empreendedorismo** para a turma de *Tecnólogo em Ciência de Dados* (PIT).
-  * **Matemática Pré-ENEM** para turmas do 3º ano do Ensino Médio.
+  * **Matemática** para turmas de 3º ano do Ensino Médio (SEDUC-PI).
   * **Desenvolvimento de Sistemas** (histórico com turmas de 2º ano).
-* 🎯 **Foco Técnico:** Microsserviços e APIs assíncronas com FastAPI, TypeScript, integração de modelos de IA, Cloud (GCP) e dados geoespaciais.
+* 🎯 **Foco de Estudo e Prática:** Construção de APIs (FastAPI e Node.js), bancos relacionais (PostgreSQL), interfaces com React e prototipagem de modelos de machine learning.
 
 ---
 
@@ -42,46 +46,54 @@ Desenvolvedor de software, pesquisador e **Google Student Ambassador (2026)** no
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos
 
 ### 🌎 Piauí for the World
-> Plataforma de dados abertos e visualização geoespacial focada no ecossistema e potencial turístico do Piauí através de tecnologia e acessibilidade.
+> Aplicação web interativa focada na exibição de dados e potencialidades turísticas e regionais do Piauí.
 
-* **Stack:** `TypeScript` `React` `Vite` `Leaflet` `GeoJSON` `TailwindCSS`
-* **Destaques:** Renderização vetorial de malhas territoriais, alta performance e manipulação de conjuntos de dados abertos.
+* **Stack:** `TypeScript` `React` `Vite` `TailwindCSS`
+* **Implementação:** Interface modular, renderização de informações geográficas/regionais e deploy estático otimizado.
 * 🔗 [Deploy](https://piaui-for-the-word.vercel.app) • 📂 [Repositório](https://github.com/DevNunes-tech/piaui-for-the-word)
 
 ---
 
+### ⚔️ Clan War Tracker
+> Aplicação web para consulta e visualização de dados de desempenho e membros de clã no Clash Royale.
+
+* **Stack:** `JavaScript` `React` `Vite` `CSS3`
+* **Implementação:** Consumo de dados via requisições assíncronas, organização de listas de jogadores e interface com filtros de estatísticas.
+* 🔗 [Deploy](https://clan-war.vercel.app/) • 📂 [Repositório](https://github.com/DevNunes-tech/clan-war)
+
+---
+
 ### 🦟 DengueTracker
-> Dashboard analítico full-stack voltado à vigilância epidemiológica e saúde pública, integrando geolocalização e indicadores temporais.
+> Interface analítica para consulta e visualização de focos e indicadores da dengue.
 
-* **Stack:** `Node.js` `TypeScript` `PostgreSQL` `React` `Leaflet`
-* **Destaques:** Estruturação de dados relacionais para mapas de calor e monitoramento de índices em tempo real.
-* 🔗 [Deploy](https://dengue-tracker.vercel.app) • 📂 [Repositório](https://github.com/DevNunes-tech)
-
----
-
-### ⚔️ WarTracker
-> Plataforma analítica de telemetria para gerenciamento estratégico e análise estatística de clãs competitivos.
-
-* **Stack:** `Node.js` `FastAPI` `PostgreSQL` `React`
-* **Destaques:** Integração com APIs externas com rate-limiting e processamento automatizado de métricas de desempenho.
-* 📂 [Repositório](https://github.com/DevNunes-tech/clan-war)
+* **Stack:** `JavaScript` `React` `Vite`
+* **Implementação:** Apresentação visual de dados territoriais com mapas e componentes de monitoramento de status epidemiológico.
+* 🔗 [Deploy](https://dengue-tracker.vercel.app) • 📂 [Repositório](https://github.com/DevNunes-tech/dengue-tracker)
 
 ---
 
-## 🛠️ Arsenal Técnico
+### 🧠 Jogo da Memória (Desktop)
+> Implementação clássica de jogo de memória com interface gráfica nativa em Python.
 
-| Área | Tecnologias, Ferramentas & Práticas |
+* **Stack:** `Python` `PySide6` `Qt`
+* **Implementação:** Arquitetura orientada a eventos, manipulação direta de layouts GUI e lógica de embaralhamento e validação de pares.
+* 📂 [Repositório](https://github.com/DevNunes-tech/memory-game)
+
+---
+
+## 🛠️ Tecnologias & Conhecimentos
+
+| Área | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | Python, TypeScript, JavaScript, SQL |
-| **Back-end & APIs** | FastAPI, Node.js, Express, REST APIs, Pydantic, SQLAlchemy |
-| **Bancos de Dados** | PostgreSQL, Modelagem Relacional, Query Optimization |
-| **Cloud & IA** | Google Cloud Platform (GCP), Vertex AI / Gemini API, Pipelines de IA, Data Analysis |
-| **Front-end & Dados** | React, Vite, Leaflet, GeoJSON, TailwindCSS |
-| **DevOps & Qualidade** | Git, Docker, Pytest, Design Patterns (GoF), Clean Architecture, CI/CD |
-| **Comunidade & Ensino** | Google Ambassador (2026), Monitoria de Dados/Matemática, Liderança Técnica |
+| **Back-end & APIs** | FastAPI, Node.js, Express, REST APIs |
+| **Bancos de Dados** | PostgreSQL, SQLite |
+| **Front-end** | React, Vite, HTML5, CSS3, TailwindCSS |
+| **Ferramentas & Ambientes** | Git, GitHub, Linux, Streamlit, PySide6 |
+| **Acadêmico & Comunidade** | Google Student Ambassador (2026), Monitoria de Matemática e Empreendedorismo |
 
 ---
 
@@ -90,9 +102,9 @@ Desenvolvedor de software, pesquisador e **Google Student Ambassador (2026)** no
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oliverws7)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevNunes-tech)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_oliverws)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-2771-8491)
 [![Lattes](https://img.shields.io/badge/Lattes-003366?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/7074291163602260)
-
 
 </div>
